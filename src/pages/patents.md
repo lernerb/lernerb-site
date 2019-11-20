@@ -1,6 +1,6 @@
 ---
 title: Patents
-subtitle: List of patents invented by me!
+subtitle: ''
 menus:
   main:
     title: Style Guide
