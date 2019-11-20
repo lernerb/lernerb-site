@@ -3,7 +3,7 @@ title: Patents
 subtitle: ''
 menus:
   main:
-    title: Style Guide
+    title: Patents
     weight: 3
 template: page
 img_path: ''
