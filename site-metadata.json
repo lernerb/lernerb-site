@@ -1,11 +1,11 @@
 {
-  "title": "Brandon Lerner",
+  "title": "Random Brandon",
   "layout_style": "overflow",
   "palette": "blue",
-  "description": "Personal site of Brandon Lerner",
+  "description": "A place for the random thoughts of Brandon",
   "siteUrl": "https://lernerb-site-96e55.netlify.com",
   "header": {
-    "title": "Brandon Lerner",
+    "title": "Random Brandon",
     "tagline": "Teamwork makes the dream work! ",
     "profile_img": "images/avatar.png",
     "bg": "dark",
