@@ -17,10 +17,9 @@ sections:
   - label: Contact Me
     url: "/contact"
   component: ContentBlock
-  content: This is the "about" excerpt. It can be used to provide a paragraph about
-    yourself that people can read on the homepage to get a sense of who you are. There
-    also exists a dedicated about page where you can write more about yourself for
-    those who are interested.
+  content: "I'm currently an engineering manager working at Venmo, with deep experience
+    in the Android field. \n\nBefore joining the field of Engineering, I went to Northeastern
+    University and got a B.S in Computer Science and Information Science."
   image: ''
 - type: postsblock
   template: postsblock
